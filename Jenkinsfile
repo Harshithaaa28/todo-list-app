@@ -13,7 +13,7 @@ pipeline {
 
             steps {
 
-                git 'https://github.com/Keerthana-Keeru/quiz-app.git'
+                git 'https://github.com/Harshithaaa28/todo-list-app.git'
             }
         }
 
